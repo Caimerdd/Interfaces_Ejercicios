@@ -1,0 +1,10 @@
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\bin\Debug\PagoEmpleados.exe.config
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\bin\Debug\PagoEmpleados.exe
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\bin\Debug\PagoEmpleados.pdb
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\obj\Debug\PagoEmpleados.csproj.AssemblyReference.cache
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\obj\Debug\PagoEmpleados.Form1.resources
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\obj\Debug\PagoEmpleados.Properties.Resources.resources
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\obj\Debug\PagoEmpleados.csproj.GenerateResource.cache
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\obj\Debug\PagoEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\obj\Debug\PagoEmpleados.exe
+C:\Users\dr. waldo fonseca\source\repos\PagoEmpleados\PagoEmpleados\obj\Debug\PagoEmpleados.pdb
