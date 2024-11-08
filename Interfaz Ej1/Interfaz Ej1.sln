@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz Ej1", "Interfaz Ej1\Interfaz Ej1.csproj", "{A62F8874-9E39-4B5A-B658-DEFFF9841638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62F8874-9E39-4B5A-B658-DEFFF9841638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62F8874-9E39-4B5A-B658-DEFFF9841638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62F8874-9E39-4B5A-B658-DEFFF9841638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62F8874-9E39-4B5A-B658-DEFFF9841638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16BB77B5-3B02-48DA-95CE-D82416A7C608}
+	EndGlobalSection
+EndGlobal
